@@ -1,0 +1,54 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "生命無限無疆（1838，DRS 428712522） / Sheng ming wu xian wu jiang: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-23",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/sheng-ming-wu-xian-wu-jiang-1838-drs-428712522/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/sheng-ming-wu-xian-wu-jiang-1838-drs-428712522",
+  "abstract": "Sheng ming wu xian wu jiang (生命無限無疆) is a short early Chinese-language Christian narrative by Karl Friedrich August Gützlaff (郭實獵, 1803–1851), printed in Singapore in 1838 (Daoguang 18) by the Jianxia Shuyuan (堅夏書院). It opens with the words \"in Guangzhou Prefecture there was a household\" and introduces Li Ling, who grew rich through trade and loves feasting and entertainment. It contrasts him with his poor neighbor Liu Dai and notes that after Li Ling falls ill, his drinking companions do not come to ask after him. Its closing columns use phrases such as \"new heaven and earth,\" \"how may everlasting life be obtained,\" and \"believing in Jesus\" to link eternal life with faith in Jesus. The dialogue closes with the group voicing its fear of death and asking why they should not willingly submit to the Savior.\n\nThe catalogue identifies Karl Friedrich August Gützlaff (郭實獵) as the author of the historical work. This dataset uses 14 fixed images, including 10 pages with main text, from Harvard-Yenching Library DRS 428712522. The AI-reviewed JSON, TXT and TEI transcription retains 115 unresolved comparison items. Full human collation is outstanding.",
+  "keywords": [
+    "生命無限無疆 / Sheng ming wu xian wu jiang",
+    "郭實獵 / Karl Friedrich August Gützlaff",
+    "十九世紀華文基督教印刷 / Nineteenth-century Chinese Christian printing",
+    "傳教印刷 / Missionary printing",
+    "新嘉坡刊本 / Singapore imprint",
+    "堅夏書院 / Jianxia Shuyuan",
+    "道光十八年（1838） / Daoguang 18 (1838)",
+    "早期漢語基督教敘事 / Early Chinese-language Christian narrative",
+    "短篇敘事 / Short narrative",
+    "廣州府 / Guangzhou Prefecture",
+    "李令 / Li Ling (character)",
+    "劉岱 / Liu Dai (character)",
+    "貧富對照 / Contrast of wealth and poverty",
+    "永生 / Eternal life",
+    "信服耶穌 / Faith in Jesus",
+    "古籍轉錄 / Transcription of premodern Chinese texts"
+  ],
+  "references": [
+    {
+      "type": "book",
+      "title": "生命無限無疆",
+      "publisher": {
+        "name": "新嘉坡堅夏書院"
+      },
+      "authors": [
+        {
+          "given-names": "Karl Friedrich August",
+          "family-names": "Gützlaff"
+        }
+      ],
+      "year": 1838,
+      "url": "https://id.lib.harvard.edu/alma/990081407930203941/catalog",
+      "notes": "Harvard-Yenching Library DRS 428712522, RAREB TA 1979.1 35.3."
+    }
+  ]
+}
